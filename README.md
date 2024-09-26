@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm Anish Rao Toorpu! 👋
+# Hi there, I'm Pranavi 👋
 
 I'm currently pursuing my Bachelor of Technology in Computer Science at Anurag University, with a keen interest in front-end development, artificial intelligence, and machine learning. I have hands-on experience in developing full-stack applications and AI-driven projects, and I'm always excited to work on impactful projects in a dynamic team environment.
 
